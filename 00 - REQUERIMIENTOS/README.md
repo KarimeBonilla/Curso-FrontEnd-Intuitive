@@ -9,3 +9,5 @@ Bienvenido Developer, en esta parte del curso aprenderás como realizar la insta
 	- [Recursos que pueden servirte](./temario/4.-Recursos.md)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
+
+***¡Sigamos aprendiendo!***
