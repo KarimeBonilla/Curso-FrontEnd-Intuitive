@@ -18,7 +18,7 @@ Anter de iniciar el curso, es importante que cuentes con los siguientes requerim
 
 El curso tiene 4 módulos que tienen dentro varios subtemas que iremos viendo conforme avance el mismo
 
-1. [Programación FrontEnd](https://github.com/KarimeBonilla/FrontEnd-Mision/tree/main/01%20-%20INTRO)
+1. [Programación FrontEnd](https://github.com/KarimeBonilla/Curso-FrontEnd-Intuitive/tree/main/01%20-%20INTRO)
     - ¿Qué es la programación FRONTEND?
 	- ¿Para que sirve la programación FRONTEND?
 	- En qué consiste la programación FRONTEND
@@ -27,7 +27,7 @@ El curso tiene 4 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Estructura de páginas web
 	- Estructura y limpieza de código
 
-2. [HTML](https://github.com/KarimeBonilla/FrontEnd-Mision/tree/main/02%20-%20HTML)
+2. [HTML](https://github.com/KarimeBonilla/Curso-FrontEnd-Intuitive/tree/main/02%20-%20HTML)
     - ¿Qué es HTML?
 	- Estructura de archivo HTML
 	- Sintaxis de etiquetas
@@ -48,7 +48,7 @@ El curso tiene 4 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Propiedades de etiquetas / Properties
 	- Práctica de HTML
 
-3. [CSS](https://github.com/KarimeBonilla/FrontEnd-Mision/tree/main/03%20-%20CSS)
+3. [CSS](https://github.com/KarimeBonilla/Curso-FrontEnd-Intuitive/tree/main/03%20-%20CSS)
     - ¿Qué es CSS?
 	- Selectores / Selector
 	- Colores
@@ -63,7 +63,7 @@ El curso tiene 4 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Librerías de CSS
 	- Práctica de CSS
 
-4. [JavaScript](https://github.com/KarimeBonilla/FrontEnd-Mision/tree/main/04%20-%20JS)
+4. [JavaScript](https://github.com/KarimeBonilla/Curso-FrontEnd-Intuitive/tree/main/04%20-%20JS)
     - ¿Qué es JS?
 	- Variables, tipos y operadores
 	- Estructura de programación
