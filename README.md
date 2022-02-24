@@ -8,7 +8,15 @@
 
 ## Organización del curso
 
-El curso tiene 4 módulos que tienen dentro varios subtemas que iremos viendo conforme avance el curso
+Anter de iniciar el curso, es importante que cuentes con los siguientes requerimientos, se anexan recursos y tutoriales para que puedas seguir los pasos. De igual forma si existe algun problema lo revisaremos en sesion:
+
+1. [Requerimientos]()
+    - Instalación de VS Code
+	- Crear cuenta de Github
+	- Conexión de VS Code con Github
+	- Recursos que pueden servirte
+
+El curso tiene 4 módulos que tienen dentro varios subtemas que iremos viendo conforme avance el mismo
 
 1. [Programación FrontEnd](https://github.com/KarimeBonilla/FrontEnd-Mision/tree/main/01%20-%20INTRO)
     - ¿Qué es la programación FRONTEND?
@@ -70,7 +78,3 @@ El curso tiene 4 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Consumo de APIs
 	- Librerías y paquetes de JS
 	- Práctica de JS
-
-**Las diferentes ligas se irán desbloqueando durante el curso conforme pasen las semanas para que no se me adelanten**
-
-***Vámonos hasta el espacio y más allá Explorers!***
