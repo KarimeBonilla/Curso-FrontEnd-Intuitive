@@ -4,7 +4,7 @@ Bienvenido Developer, en esta parte del curso aprenderás como realizar la insta
 
 1. **Requerimientos**
     - [Instalación de VS Code](./temario/1.-VSCode.md)
-	- [Crear cuenta de GitHub](./temario/2.-GitHub.md)
+	- [Crear cuenta de GitHub](./temario/2.-Github.md)
 	- [Conexión de VS Code con GitHub](./temario/3.-Conexion.md)
 	- [Recursos que pueden servirte](./temario/4.-Recursos.md)
 
