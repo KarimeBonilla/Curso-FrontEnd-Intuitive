@@ -12,8 +12,8 @@ Anter de iniciar el curso, es importante que cuentes con los siguientes requerim
 
 0. [Requerimientos](https://github.com/KarimeBonilla/Curso-FrontEnd-Intuitive/tree/main/00%20-%20REQUERIMIENTOS)
     - Instalación de VS Code
-	- Crear cuenta de Github
-	- Conexión de VS Code con Github
+	- Crear cuenta de GitHub
+	- Conexión de VS Code con GitHub
 	- Recursos que pueden servirte
 
 El curso tiene 4 módulos que tienen dentro varios subtemas que iremos viendo conforme avance el mismo
