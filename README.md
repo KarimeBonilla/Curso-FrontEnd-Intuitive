@@ -2,7 +2,7 @@
 
 ## Bienvenidos Developers!
 
-![Frontend Image](./images/frontend_int.gif)
+![Frontend Image](./images/frontend.gif)
 
 ---
 
