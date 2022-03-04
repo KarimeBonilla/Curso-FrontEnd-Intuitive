@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <meta http-equiv = "X-UA-Compatible" content = "IE=edge">
+    <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+    <title>ITM</title>
+    <link rel = "shortcut icon" href = "img/logo_tec.png">
+    <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css">
+	<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/npm/glider-js@1.7.3/glider.min.css">
+    <link rel = "stylesheet" href = "css/style.css">
+    <script src = "js/preguntasJS.js"></script>
+    <script src = "js/preguntas.js"></script>
+    <script src = "https://cdn.jsdelivr.net/npm/glider-js@1.7.3/glider.min.js"></script>
+    <script src = "https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin = "anonymous"></script>
+    <script src = "js/comentariosJS.js"></script>
+    <script src = "js/comentarios.js"></script>
+    <script src = "js/anuncios.js"></script>
+</head>
+<body>
+    <header>
+        <div class = "gob">
+            <a class = "opc_gob" href = "https://www.gob.mx/" target = "_blank"><img class = "hmg_gob" src = "img/gob.PNG" alt = "Logo del gobierno de México" width = "130px" height = "40px"></a>
+            <div class = "opciones">
+                <a class = "opc_gob f_opc_gob" href = "https://www.gob.mx/gobierno" target = "_blank"><p>Gobierno</p></a>
+                <a class = "opc_gob f_opc_gob" href = "https://www.participa.gob.mx/" target = "_blank"><p>Participa</p></a>
+                <a class = "opc_gob f_opc_gob" href = "https://datos.gob.mx/" target = "_blank"><p>Datos</p></a>
+                <a class = "opc_gob f_opc_gob" href = "https://www.gob.mx/busqueda" target = "_blank"><img class = "hmg_lupa" src = "img/lupa.PNG" alt = "Buscador con link hacia pagina del gobierno" width = "30px" height = "37px"></a>
+            </div>
+        </div>
+        <div class = "escuela">
+            <img class = "img_itm" src = "img/logo_white.png" alt = "Logo del Tecnológico de Mexicali" width = "70px" height = "90px">
+            <div class = "titulos">
+                <p class = "titulo">Tecnológico Nacional de México Campus Mexicali</p>
+                <p class = "titulo"> Departamento de Gestión Tecnológica y Vinculación </p>
+            </div>
+            <img class = "img_itm" src="img/logo_gestion5.png" alt = "Logo de Gestión y Vinculación" width = "70px" height = "90px">
+        </div>
+        <div class = "menu">
+            <ul class = "list">
+                <li class = "opc"><a class = "opc_itm" href = "index.html"><img src="img/home_blue.png" alt = "Opción de inicio" width = "25px" height = "25px"></a></li>
+                <li class = "opc"><a class = "opc_itm efect" href = "carta.html">Carta de Presentación</a></li>
+                <li class = "opc"><a class = "opc_itm efect" href = "sugerencias.html">Sugerencias</a></li>
+                <li class = "opc"><a class = "opc_itm efect" href = "lugares.html">Lugares</a></li>
+                <li class = "opc"><a class = "opc_itm efect" href = "meet.html">Meet</a></li>
+                <li class = "opc"><a class = "opc_itm efect" href = "contacto.html">Contacto</a></li>
+            </ul>
+        </div>
+    </header>
+    <main>
+        <!-- Inicio -->
+        <div class = "main">
+            <div class = "contenedor_anuncio">
+                <div class = "carousel_anuncio">
+                    <div class = "carousel__contenedor_anuncio">
+                        <div class = "carousel__lista_anuncio">
+                            <div class = "carousel__elemento_anuncio">
+                                <img src = "img/fondo_2.png" >
+                                <div class = "text">
+                                    <p><strong>¿Para que es este sitio web?</strong><br>Se desarrolló con el fin de que los estudiantes del TecNM campus Mexicali tengan la posibilidad de tramitar su carta de presentación, además de poder consultar cuales son los lugares disponibles donde pueden realizar sus prácticas, servicio o residencia profesional. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class = "carousel__elemento_anuncio">
+                                <a id = "link_manual" href="documents/Manual_Procedimientos_070222/Manual de Procedimientos_InnovaTecNM 2022.pdf" download="Manual de Procedimientos_InnovaTecNM 2022">  
+                                <img src = "img/Banner_InnovaTec_v3.png"></a>
+                                <div class = "text">
+                                    <p><strong>¿Que es InnovaTecNM?</strong><br>Se trata de un concurso para desarrollar proyectos creativos con características de escalabilidad que
+                                        fortalezcan las capacidades de investigación y desarrollo tecnológicos en la
+                                        solución de problemas de los diferentes sectores, económico, de servicio y social.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <button aria-label = "Anterior" class = "carousel__anterior_anuncio">
+                            <i class = "fas fa-chevron-left"></i>
+                        </button>
+
+                        <button aria-label = "Siguiente" class = "carousel__siguiente_anuncio">
+                            <i class = "fas fa-chevron-right"></i>
+                        </button>
+                    </div>
+        
+                    <div role = "tablist" class = "carousel__indicadores_anuncio"></div>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- Preguntas frecuentes -->
+        <div class = "container-faq" id = "FAQ">
+            <div class = "title-faq">
+                <h3>Preguntas frecuentes</h3>
+            </div>
+            <!-- Se muestran con JS-->
+        </div>
+        <!-- Comentarios -->
+        <div class = "contenedor">
+            <div class = "title-faq">
+                <h3>Comentarios</h3>
+            </div>
+            <div class = "mensaje">
+                <p>Lee los comentarios que hicieron los alumnos acerca de su experiencia</p>
+            </div>
+            <div class = "carousel" id = "load">
+                <div class = "carousel__contenedor">
+                    <button aria-label = "Anterior" class = "carousel__anterior">
+                        <i class = "fas fa-chevron-left"></i>
+                    </button>
+    
+                    <div class = "carousel__lista" id = "carrusel">
+                        <!-- Se muestran con JS-->
+                    </div>
+
+                    <button aria-label = "Siguiente" class = "carousel__siguiente">
+                        <i class = "fas fa-chevron-right"></i>
+                    </button>
+                </div>
+    
+                <div role = "tablist" class = "carousel__indicadores"></div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <!-- Footer ITMexicali -->
+        <div class = "f_itm">
+            <div class = "direccion">
+                <div class = "first">
+                    <strong>Dirección</strong>
+                    <p>Av. Instituto Tecnológico s/n plutarco Elías <br> Calles 21376 Mexicali, B.C, México.</p>
+                </div>
+                <div class = "first">
+                    <strong>Contacto</strong>
+                    <p>Email: direccion@itmexicali.edu.mx <br> Telefono: (686) 580-4980</p>
+                </div>
+            </div>
+            <div class = "itmexicali">
+                <div class = "first">
+                    <strong>Gestión tecnológica y vinculación</strong> 
+                    <p class = "itm_icon"><a href = "https://www.facebook.com/vinculacion.itm.7" target="_blank"><img class = "footer_img" src = "img/fac.png" alt = "Icono de Facebook" width = "25px" height = "25px"></a>@Vinculacionitmexicali</p>
+                    <p class = "itm_icon"><a href = "mailto:gestion@itmexicali.edu.mx?"><img class = "footer_img" src = "img/email.png" alt = "Icono de correo" width = "25px" height = "20px"></a>gestion@itmexicali.edu.mx</p>
+                </div>
+                <div class = "first t_first">
+                    <strong>Página oficial</strong>
+                    <p class = "itm_icon"><a href = "https://www.facebook.com/ITMEXICALI" target="_blank"><img class = "footer_img" src = "img/fac.png" alt = "Icono de Facebook" width = "25px" height = "25px"></a>@ITMEXICALI</p>
+                    <p class = "itm_icon"><a href = "https://www.instagram.com/buffalo.vox/" target="_blank"><img class = "footer_img" src = "img/ins.png" alt = "Icono de Instagram" width = "25px" height = "25px"></a>@Buffalo.vox</p>
+                    <p class = "itm_icon"><a href = "https://www.youtube.com/channel/UCj0YfvUhWQaH94SrAuBb9OA/featured" target = "_blank"><img class = "footer_img" src = "img/yt.jpg" alt = "Icono de Youtube" width = "25px" height = "20px"></a>@ComunicacionYDifusion</p>
+                </div>
+            </div>
+            <div class = "itmexicali">
+                <div class = "first">
+                    <strong>Servicio social</strong>
+                    <p class = "itm_icon"><img class = "footer_img" src = "img/phone.png" alt = "Icono de telefono" width="20px" height="20px">(686) 580-4911 Int(4911)</p>
+                    <p class = "itm_icon"><a href = "mailto:ssocial@itmexicali.edu.mx?"><img class = "footer_img" src = "img/email.png" alt = "Icono de correo" width = "25px" height = "20px"></a>ssocial@itmexicali.edu.mx</p>
+                </div>
+                <div class = "first t_first">
+                    <strong>Residencias profesionales</strong>
+                    <p class = "itm_icon"><img class = "footer_img" src = "img/phone.png" alt = "Icono de telefono" width = "20px" height = "20px">(686) 580-4990 Int(4990)</p>
+                    <p class = "itm_icon"><a href = "mailto:residencias@itmexicali.edu.mx?"><img class = "footer_img" src = "img/email.png" alt = "Icono de correo" width = "25px" height = "20px"></a>residencias@itmexicali.edu.mx</p>
+                </div>
+            </div>
+            <div class = "img_tec">
+                <a href="contacto.html"><img src = "img/ITM.jfif" alt = "Imagen del Tecnológico de Mexicali" width = "300px" height = "200px"></a>
+            </div>
+        </div>
+        <!-- Footer Gob -->
+        <div class = "f_gob">
+            <div class = "img_gob">
+                <img src = "img/logo_gob.png" alt = "Logo del gobierno de México" width = "150px" height = "45px">
+            </div>
+            <div class = "enlace">
+                <p><strong>Enlaces</strong></p>
+                <ul>
+                    <li><a class = "f_opc_gob" href = "https://participa.gob.mx/" target = "_blank">Participa</a></li>
+                    <li><a class = "f_opc_gob" href = "https://www.gob.mx/publicaciones" target = "_blank">Publicaciones Oficiales</a></li>
+                    <li><a class = "f_opc_gob" href = "http://www.ordenjuridico.gob.mx/#gsc.tab=0" target = "_blank">Marco Juridico</a></li>
+                    <li><a class = "f_opc_gob" href = "https://consultapublicamx.inai.org.mx/vut-web/faces/view/consultaPublica.xhtml#inicio" target = "_blank">Plataforma Nacional de Transparencia</a></li>
+                </ul>
+            </div>
+            <div class = "que_es">
+                <p><strong>¿Qué es gob.mx?</strong></p>
+                <p>Es el portal de trámites, información y participación ciudadana. <br> <a class = "f_opc_gob" href = "https://www.gob.mx/que-es-gobmx" target = "_blank">Leer más</a> </p>
+                <ul>
+                    <li><a class = "f_opc_gob" href = "https://datos.gob.mx/" target = "_blank">Portal de datos abiertos</a></li>
+                    <li><a class = "f_opc_gob" href = "https://www.gob.mx/accesibilidad" target = "_blank">Declaración de accesibilidad</a></li>
+                    <li><a class = "f_opc_gob" href = "https://www.gob.mx/aviso_de_privacidad" target = "_blank">Aviso de privacidad integral</a></li>
+                    <li><a class = "f_opc_gob" href = "https://www.gob.mx/privacidadsimplificado" target = "_blank">Aviso de privacidad simplificado</a></li>
+                    <li><a class = "f_opc_gob" href = "https://www.gob.mx/terminos" target = "_blank">Términos y Condiciones</a></li>
+                    <li><a class = "f_opc_gob" href = "https://www.gob.mx/terminos#medidas-seguridad-informacion" target = "_blank">Política de seguridad</a></li>
+                    <li><a class = "f_opc_gob" href = "https://www.gob.mx/sitemap" target = "_blank">Mapa de sitio</a></li>
+                </ul>
+            </div>
+            <div class = "redes">
+                <ul>
+                    <li><a class = "f_opc_gob" href = "https://www.gob.mx/tramites/ficha/presentacion-de-quejas-y-denuncias-en-la-sfp/SFP54" target = "_blank">Denuncia contra servidores públicos</a></li>
+                </ul>
+                <p>Síguenos en</p>
+                <div class = "logos_redes">
+                    <a href = "https://www.facebook.com/gobmexico" target="_blank"><img src = "img/fac.png" alt = "Icono de Facebook" width = "25px" height = "25px"></a>
+                    <a href = "https://twitter.com/GobiernoMX" target="_blank"><img src = "img/twi.png" alt = "Icono de Twitter" width = "25px" height = "25px"></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
