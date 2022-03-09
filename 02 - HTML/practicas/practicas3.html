@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acomodo</title>
+    <style>
+        * {
+            margin: 0;
+        }
+        
+        body{
+            font-size: 20px;
+            text-align: center;
+        }
+
+        header {
+            padding: 15px;
+            background-color: #EDCCB2;
+            margin-bottom: 10px;
+            border-bottom: 3px solid black;
+        }
+
+        div {
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+        }
+
+        nav {
+            width: 30%;
+            padding: 20px;
+            background-color: #B7DDEA;
+            border: 3px solid black;
+            margin-right: 10px;
+        }
+
+        section{
+            border: 3px solid black;
+            width: 70%;
+            padding: 20px;
+            background-color: #D8D8D8;
+        }
+
+        article{
+            padding: 50px;
+            background-color: #8DB1E3;
+            border: 3px solid black;
+        }
+
+        aside {
+            background-color: #D99690;
+            margin-bottom: 10px;
+            margin-left: 10px;
+            border: 3px solid black;
+            padding: 10px;
+        }
+
+        footer {
+            padding: 15px;
+            background-color: #D2D3AB;
+            margin-top: 10px;
+        }
+
+
+        #hola {
+            display: flex;
+            flex-direction: column;
+        }
+
+        footer {
+            border: 3px solid black;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <p>&lt;header&gt;</p>
+    </header>
+    <div>
+        <nav>
+            <p>&lt;nav&gt;</p>
+        </nav>
+        <section>
+            <p>&lt;section&gt;</p>
+            <div>
+                <article>
+                    <p>&lt;article&gt;</p>
+                </article>
+                <div id="hola">
+                    <aside>
+                        <p>&lt;aside&gt;</p>
+                    </aside>
+                    <aside>
+                        <p>&lt;aside&gt;</p>
+                    </aside>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+    <footer>
+        <p>&lt;footer&gt;</p>
+    </footer>
+</body>
+</html>
