@@ -30,7 +30,6 @@ Bonus:
 En caso de que te quede corto el ejercicio siguele con esto!
 - Bonus de estilos (Intro a CSS)
 - Bonus de Rutas (Navegación en la página)
-- Bonus de despliegue (Montar la página en línea con dominio gratuito)
 
-## El 18 de Marzo se subirá el Form para que entreguen las prácticas. 
-***¡Vámonos hasta el espacio y más allá Explorers!***
+## El 22 de Marzo se subirá el Form para que entreguen esta práctica.
+***¡Sigamos aprendiendo!***
