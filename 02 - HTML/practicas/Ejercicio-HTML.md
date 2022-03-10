@@ -2,7 +2,7 @@
 
 Para este ejercicio seguiran el siguiente documento.<br>
 ⬇️⬇️⬇️⬇️⬇️⬇️ PDF ⬇️⬇️⬇️⬇️⬇️⬇️<br>
-[LINK DE EXCEL](../programas/HTML-Ejercicios.pdf)
+[LINK DE PDF](../programas/HTML-Ejercicios.pdf)
 
 Lo que haran, sera copiar y pegar en un archivo HTML los codigos que vienen en el archivo, le tomaran un ss y pondran una pequeña conclusión por cada código de los resultados que se visualizan. 
 
