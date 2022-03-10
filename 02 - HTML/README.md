@@ -14,8 +14,8 @@ En este módulo veremos las siguientes cosas.
     - [Propiedades de etiquetas](./temario/5.-propiedades.md)
 
 **Ejercicios/Practicas**
-	- [Ejercicio con HTML](./practicas/Ejercicio-HTML.md)
-	- [Practica con HTML](./practicas/Practica-HTML.md)
+1. [Ejercicio con HTML](./practicas/Ejercicio-HTML.md)
+2. [Practica con HTML](./practicas/Practica-HTML.md)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
