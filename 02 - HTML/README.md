@@ -13,6 +13,10 @@ En este módulo veremos las siguientes cosas.
 	- [Acomodo y Navegacion](./temario/4.-acomodoNavegacion.md)
     - [Propiedades de etiquetas](./temario/5.-propiedades.md)
 
+**Ejercicios/Practicas**
+	- [Ejercicio con HTML](./practicas/Ejercicio-HTML.md)
+	- [Practica con HTML](./practicas/Practica-HTML.md)
+
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
 ***¡Sigamos aprendiendo!***

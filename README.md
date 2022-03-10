@@ -46,7 +46,7 @@ El curso tiene 4 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Pie de página / Footer
 	- Filas y columnas / Rows & Columns
 	- Propiedades de etiquetas / Properties
-	- Práctica de HTML
+	- Prácticas de HTML
 
 3. [CSS](https://github.com/KarimeBonilla/Curso-FrontEnd-Intuitive/tree/main/03%20-%20CSS)
     - ¿Qué es CSS?
