@@ -1,6 +1,6 @@
 # HTML
 
-Bienvenido Deveploper, llegamos a tu primer misión de FrontEnd y empezamos a programar con HTML.
+Bienvenido Developer, llegamos a tu primer misión de FrontEnd y empezamos a programar con HTML.
 
 HTML es el lenguaje que nos permite darle estructura a nuestras páginas web y que nos da la oportunidad de darle un esqueleto a nuestros sitios.
 
