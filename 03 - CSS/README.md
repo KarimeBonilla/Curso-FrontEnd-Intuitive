@@ -1,4 +1,4 @@
-# HTML
+# CSS
 
 Bienvenido Developer, llegamos a tu segunda misión de FrontEnd y empezamos a programar con CSS.
 
