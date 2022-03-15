@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 1px black solid;
+    max-width: 1200px;
+    width: 90%;
+    height: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.box_1 {
+    background-color: blue;
+}
+
+.box_2 {
+    background-color: darkgreen;
+}
+
+.box_3 {
+    background-color: darkmagenta;
+}
+
+.box_4 {
+    background-color: firebrick;
+}

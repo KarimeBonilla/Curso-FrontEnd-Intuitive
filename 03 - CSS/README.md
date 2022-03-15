@@ -8,6 +8,11 @@ En este módulo veremos las siguientes cosas.
 
 2. **CSS**
     - [Selectores](./programas/selectores.html)
+    - [Colores](./programas/colores.html)
+    - Diseño (Intro Flexbox)
+        - [HTML](./programas/practicaCSS.html)
+        - [CSS](./programas/practicaCSS.html)
+    - [Flexbox](./programas/flexbox.html)
 
 * **Ejercicios/Practicas**
  - Coming soon
