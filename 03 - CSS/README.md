@@ -11,11 +11,14 @@ En este módulo veremos las siguientes cosas.
     - [Colores](./programas/colores.html)
     - Diseño (Intro Flexbox)
         - [HTML](./programas/practicaCSS.html)
-        - [CSS](./programas/practicaCSS.html)
+        - [CSS](./programas/styleCSS.css)
     - [Flexbox](./programas/flexbox.html)
 
+* **Recursos**
+	1. [Froggy Flexbox](https://flexboxfroggy.com/)
+
 * **Ejercicios/Practicas**
- - Coming soon
+Coming soon
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
