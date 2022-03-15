@@ -18,6 +18,7 @@ En este módulo veremos las siguientes cosas.
 	1. [Froggy Flexbox](https://flexboxfroggy.com/)
 
 * **Ejercicios/Practicas**
+
 Coming soon
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
